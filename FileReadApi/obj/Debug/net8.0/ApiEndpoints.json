@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FileReadApi.Controllers.FileReadApi",
+    "Method": "GetFileData",
+    "RelativePath": "api/FileReadApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rnOFVRJroirRbhQ99UaUaOocd4KtsCPJpsLK5culfwA=",
+  "Source": "FileReadApi",
+  "BasePath": "_content/FileReadApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
